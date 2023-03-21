@@ -1,0 +1,557 @@
+Mono path[0] = 'C:/Users/fight/Desktop/unity_env/unity-ml-agents-self-driving-car-main/Car/DQN_220523_Data/Managed'
+Mono config path = 'C:/Users/fight/Desktop/unity_env/unity-ml-agents-self-driving-car-main/Car/MonoBleedingEdge/etc'
+Initialize engine version: 2021.3.2f1 (d6360bedb9a0)
+[Subsystems] Discovering subsystems at path C:/Users/fight/Desktop/unity_env/unity-ml-agents-self-driving-car-main/Car/DQN_220523_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   NVIDIA
+    VRAM:     24340 MB
+    Driver:   31.0.15.2802
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.117 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+UnloadTime: 0.612900 ms
+Ray distance : 2.362394
+Ray distance : 2.362571
+Ray distance : 2.367988
+Ray distance : 2.378651
+Ray distance : 2.39457
+Ray distance : 2.415756
+Ray distance : 2.434105
+Ray distance : 2.452454
+Ray distance : 2.470802
+Ray distance : 2.489151
+Ray distance : 2.507499
+Ray distance : 2.530262
+Ray distance : 2.548494
+Ray distance : 2.562204
+Ray distance : 2.571403
+Ray distance : 2.5761
+Ray distance : 2.576292
+Ray distance : 2.580534
+Ray distance : 2.588833
+Ray distance : 2.601193
+Ray distance : 2.617624
+Ray distance : 2.640314
+Ray distance : 2.658487
+Ray distance : 2.672155
+Ray distance : 2.681331
+Ray distance : 2.686018
+Ray distance : 2.686218
+Ray distance : 2.689265
+Ray distance : 2.695158
+Ray distance : 2.703905
+Ray distance : 2.715511
+Ray distance : 2.724487
+Ray distance : 2.730189
+Ray distance : 2.732634
+Ray distance : 2.731821
+Ray distance : 2.727745
+Ray distance : 2.709396
+Ray distance : 2.691047
+Ray distance : 2.672699
+Ray distance : 2.654351
+Ray distance : 2.636003
+Ray distance : 2.613685
+Ray distance : 2.586825
+Ray distance : 2.5554
+Ray distance : 2.519385
+Ray distance : 2.478754
+Ray distance : 2.438441
+Ray distance : 2.402262
+Ray distance : 2.370184
+Ray distance : 2.342186
+Ray distance : 2.318248
+Ray distance : 2.304466
+Ray distance : 2.293484
+Ray distance : 2.285297
+Ray distance : 2.279898
+Ray distance : 2.277285
+Ray distance : 2.277453
+Ray distance : 2.274299
+Ray distance : 2.267812
+Ray distance : 2.257992
+Ray distance : 2.244829
+Ray distance : 2.229929
+Ray distance : 2.221268
+Ray distance : 2.218823
+Ray distance : 2.222595
+Ray distance : 2.232597
+Ray distance : 2.24332
+Ray distance : 2.251924
+Ray distance : 2.258415
+Ray distance : 2.262796
+Ray distance : 2.265071
+Ray distance : 2.265071
+Ray distance : 2.26507
+Ray distance : 2.26507
+Ray distance : 2.26507
+Ray distance : 2.26507
+Ray distance : 2.265239
+Ray distance : 2.269412
+Ray distance : 2.277595
+Ray distance : 2.289792
+Ray distance : 2.306014
+Ray distance : 2.31548
+Ray distance : 2.321424
+Ray distance : 2.323868
+Ray distance : 2.322812
+Ray distance : 2.318247
+Ray distance : 2.30326
+Ray distance : 2.294555
+Ray distance : 2.292111
+Ray distance : 2.295926
+Ray distance : 2.306013
+Ray distance : 2.326274
+Ray distance : 2.350589
+Ray distance : 2.378978
+Ray distance : 2.411462
+Ray distance : 2.448066
+Ray distance : 2.505444
+Ray distance : 2.574569
+Ray distance : 2.636936
+Ray distance : 2.687416
+Ray distance : 2.749719
+Ray distance : 2.786595
+Ray distance : 2.830357
+Ray distance : 2.881153
+Ray distance : 2.902423
+Ray distance : 2.910226
+Ray distance : 2.957557
+Ray distance : 3.008976
+Ray distance : 3.064681
+Ray distance : 3.12488
+Ray distance : 3.189813
+Ray distance : 3.205849
+Ray distance : 3.223139
+Ray distance : 3.241757
+Ray distance : 3.261785
+Ray distance : 3.283313
+Ray distance : 3.330294
+Ray distance : 3.37895
+Ray distance : 3.424597
+Ray distance : 3.323099
+Ray distance : 3.244261
+Ray distance : 3.206705
+Ray distance : 3.171847
+Ray distance : 3.139433
+Ray distance : 3.10925
+Ray distance : 3.08111
+Ray distance : 3.054851
+Ray distance : 3.030316
+Ray distance : 3.007387
+Ray distance : 2.985925
+Ray distance : 2.965842
+Ray distance : 2.947042
+Ray distance : 2.929436
+Ray distance : 2.912947
+Ray distance : 2.897514
+Ray distance : 2.88307
+Ray distance : 2.869557
+Ray distance : 2.856925
+Ray distance : 2.83012
+Ray distance : 2.79642
+Ray distance : 2.769531
+Ray distance : 2.749412
+Ray distance : 2.73598
+Ray distance : 2.678773
+Ray distance : 2.611824
+Ray distance : 2.552023
+Ray distance : 2.499185
+Ray distance : 2.453171
+Ray distance : 2.413822
+Ray distance : 2.381031
+Ray distance : 2.354688
+Ray distance : 2.334457
+Ray distance : 2.317046
+Ray distance : 2.302449
+Ray distance : 2.290676
+Ray distance : 2.28168
+Ray distance : 2.272439
+Ray distance : 2.261073
+Ray distance : 2.247566
+Ray distance : 2.231915
+Ray distance : 2.214111
+Ray distance : 2.193937
+Ray distance : 2.173755
+Ray distance : 2.153589
+Ray distance : 2.183107
+Ray distance : 2.620301
+Ray distance : 2.616463
+Ray distance : 2.610295
+Ray distance : 2.601778
+Ray distance : 2.590898
+Ray distance : 2.577669
+Ray distance : 2.561933
+Ray distance : 2.541606
+Ray distance : 2.518987
+Ray distance : 2.545459
+Ray distance : 2.567286
+Ray distance : 2.584513
+Ray distance : 2.597218
+Ray distance : 2.605421
+Ray distance : 2.609144
+Ray distance : 2.531553
+Ray distance : 2.600884
+Ray distance : 2.586422
+Ray distance : 2.564963
+Ray distance : 2.536443
+Ray distance : 2.535687
+Ray distance : 2.563906
+Ray distance : 2.587459
+Ray distance : 2.606416
+Ray distance : 2.620842
+Ray distance : 2.630767
+Ray distance : 2.615596
+Ray distance : 2.569169
+Ray distance : 2.521746
+Ray distance : 2.473026
+Ray distance : 2.422699
+Ray distance : 2.405743
+Ray distance : 2.368665
+Ray distance : 2.395446
+Ray distance : 2.475951
+Ray distance : 2.555609
+Ray distance : 2.634902
+Ray distance : 2.654954
+Ray distance : 2.668203
+Ray distance : 2.676992
+Ray distance : 2.681345
+Ray distance : 2.681774
+Ray distance : 2.675329
+Ray distance : 2.66199
+Ray distance : 2.583401
+Ray distance : 2.447567
+Ray distance : 2.518065
+Ray distance : 2.614562
+Ray distance : 2.648066
+Ray distance : 2.676881
+Ray distance : 2.701092
+Ray distance : 2.720764
+Ray distance : 2.735964
+Ray distance : 2.746731
+Ray distance : 2.753094
+Ray distance : 2.755072
+Ray distance : 2.753872
+Ray distance : 2.752673
+Ray distance : 2.461683
+Ray distance : 2.44369
+Ray distance : 2.460907
+Ray distance : 2.455357
+Ray distance : 2.446392
+Ray distance : 2.454322
+Ray distance : 2.466664
+Ray distance : 2.475568
+Ray distance : 2.478222
+Ray distance : 2.480876
+Ray distance : 2.48353
+Ray distance : 2.486184
+Ray distance : 2.488838
+Ray distance : 2.495647
+Ray distance : 2.496615
+Ray distance : 2.49174
+Ray distance : 2.480997
+Ray distance : 2.464352
+Ray distance : 2.447404
+Ray distance : 2.428326
+Ray distance : 2.407104
+Ray distance : 2.383719
+Ray distance : 2.358155
+Ray distance : 2.330389
+Ray distance : 2.321496
+Ray distance : 2.325457
+Ray distance : 2.327276
+Ray distance : 2.326951
+Setting up 8 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 14 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 351 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 56.6 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 2.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 15 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 13.1 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 15 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 17.4 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 14 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 15 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 15 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.3 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 15 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.9 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.1 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 15 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 15 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 0
+      Peak Allocated memory 0 B
+      Peak Large allocation bytes 0 B

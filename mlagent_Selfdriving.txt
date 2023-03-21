@@ -1,0 +1,11 @@
+conda activate mlagents
+
+cd \unity_env\unity_env\unity-ml-agents-self-driving-car
+
+mlagents-learn ./Car_config/car_ppo01.yaml --env=./Car --run-id=car01 --num-envs 4 --width=800 --height=600
+
+mlagents-learn ./Car_config/car_ppo01.yaml --env=./Car --run-id=car01 --num-envs 4 --resume --width=800 --height=600
+
+mlagents-learn ./Car_config/car_ppo01.yaml --env=./Car --resume --run-id=car01 --inference --width=1600 --height=1200
+
+tensorboard --logdir results

@@ -1,0 +1,65 @@
+{
+    "Car": {
+        "checkpoints": [
+            {
+                "steps": 2499993,
+                "file_path": "results\\car01\\Car\\Car-2499993.onnx",
+                "reward": -1.0646428423268455,
+                "creation_time": 1679309734.201211,
+                "auxillary_file_paths": [
+                    "results\\car01\\Car\\Car-2499993.pt"
+                ]
+            },
+            {
+                "steps": 2999993,
+                "file_path": "results\\car01\\Car\\Car-2999993.onnx",
+                "reward": -1.0765505094561427,
+                "creation_time": 1679311740.0112815,
+                "auxillary_file_paths": [
+                    "results\\car01\\Car\\Car-2999993.pt"
+                ]
+            },
+            {
+                "steps": 3499951,
+                "file_path": "results\\car01\\Car\\Car-3499951.onnx",
+                "reward": -0.8552597517316992,
+                "creation_time": 1679313866.2233295,
+                "auxillary_file_paths": [
+                    "results\\car01\\Car\\Car-3499951.pt"
+                ]
+            },
+            {
+                "steps": 3999849,
+                "file_path": "results\\car01\\Car\\Car-3999849.onnx",
+                "reward": 3.3965955642943686,
+                "creation_time": 1679315964.4283335,
+                "auxillary_file_paths": [
+                    "results\\car01\\Car\\Car-3999849.pt"
+                ]
+            },
+            {
+                "steps": 4004286,
+                "file_path": "results\\car01\\Car\\Car-4004286.onnx",
+                "reward": 3.3958926626614163,
+                "creation_time": 1679315980.0379276,
+                "auxillary_file_paths": [
+                    "results\\car01\\Car\\Car-4004286.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4004286,
+            "file_path": "results\\car01\\Car.onnx",
+            "reward": 3.3958926626614163,
+            "creation_time": 1679315980.0379276,
+            "auxillary_file_paths": [
+                "results\\car01\\Car\\Car-4004286.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

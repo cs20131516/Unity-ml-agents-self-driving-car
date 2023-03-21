@@ -1,0 +1,2 @@
+All models are set in the prefabs. You will find them in the "Prefabs" folder. All you need to do is to add the prefab to the scene.
+All prefabs are multiples of 5 units in the Unity, so you can shift them by multiples of 5 on the X and Z axes when creating a road.
